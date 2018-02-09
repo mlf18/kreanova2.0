@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0",
+    "gulp": "^3.8.11",
+    "laravel-elixir": "*"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bower": "^1.8.2",
+    "font-awesome": "^4.7.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
